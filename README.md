@@ -25,6 +25,11 @@ pip3 install -r requirements.txt
 python -m IPython
 ```
 
+### Set-up
+
+If you'd like to run these examples on your own machine, we've provided installation instructions in [1A_PyTorch_Installation.ipynb](week1/1A_PyTorch_Installation.ipynb).
+We'll be spending most of our time coding in IPython notebooks; if you haven't used an IPython notebook before, [1B_Coding_Environments.ipynb](week1/1B_Coding_Environments.ipynb) will give you a quick primer, as well as a few alternatives.
+
 
 ## Usefull links
 
